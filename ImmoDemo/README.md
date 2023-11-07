@@ -1,6 +1,6 @@
-# ImmoDemo (immodemo)
+# Immo App (immodemo)
 
-Demo project for fun
+Demo App
 
 ## Install the dependencies
 ```bash
